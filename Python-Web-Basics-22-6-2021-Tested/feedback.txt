@@ -1,0 +1,6 @@
+1 .idea Да се изтрие от ресурсите
+
+2 да се добави / преди static/images/note.png ето така /static/images/note.png на всеки .html файл
+
+3 контейнера се препокрива с footer-a да се добави margin: 2% auto 10% auto; на .note-details-container
+

@@ -1,0 +1,14 @@
+1. Details Page
+<!-- if there are already tenants of the housing, separate their names with a comma and a space ","  -->
+<!--<p>People rented this housing: Alex Petkov</p>-->
+
+The example is only one -> the developer cant see how the separator {, } is being used.
+Suggestion, Change it to <!--<p>People rented this housing: Alex Petkov, Ivan Dobrev, Pesho Peshov</p>-->
+
+2. Home Page in the .docx file 
+"Visualize the 3 last added housing offers, in ascending order." 
+
+In ascending by which field ? Year, Name, City, Available Peaces?
+Suggestion eyther give the concrete name of the field or remove the requirement.
+
+3. Rename Notice to Name due to a spelling inaccuracy that causes confusion and thus slows the development process.
